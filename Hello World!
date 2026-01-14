@@ -1,0 +1,6 @@
+print("Olá!, Tudo bem?!!!")
+print("Me diga o seu nome")
+
+nome = input()
+
+print(f"Hello World {nome}!")
